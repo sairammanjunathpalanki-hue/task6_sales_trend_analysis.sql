@@ -1,0 +1,1 @@
+# task6_sales_trend_analysis.sql
